@@ -1,0 +1,12 @@
+figure {
+	width: 50%;
+	float: left;
+    display: inline-block;
+    text-align: center;
+}
+figure img {
+    vertical-align: top;
+}
+figcaption {
+    font-size: 0.8em;
+}

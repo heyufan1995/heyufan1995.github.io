@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raspberry Pi on Rui Shen</title>
+    <link>http://localhost:1313/tags/raspberry-pi/</link>
+    <description>Recent content in Raspberry Pi on Rui Shen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lip Language Recognition</title>
+      <link>http://localhost:1313/projects/lip/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/lip/</guid>
+      <description>This student project was conducted on 2016 at my junior year. It stemmed from one of my thoughts &amp;mdash; can we detect lip movements with micro-camera, transfer lip language to synthetic voice, thus enabling the mute to communicate just like us? we took 10000 photos of Chinese speakers speaking basic vowels, conducted automatic detection of faces and lips with OpenCV, and trained a neural network to recognize basic Chinese vowels. We built a lip language reader using Raspberry Pi and a camera with 92.</description>
+    </item>
+    
+    <item>
+      <title>Aircraft Monitoring based on ADS-B</title>
+      <link>http://localhost:1313/projects/adsb/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/adsb/</guid>
+      <description>ADS-B (Automatic dependent surveillance—broadcast) is &amp;ldquo;a surveillance technology in which an aircraft determines its position via satellite navigation and periodically broadcasts it, enabling it to be tracked.&amp;rdquo; I worked on this student project with two friends when we were sophomores. We built an reliable aircraft monitoring system with 200km detection zone, based on ADS-B technology. We improved the performance of the receiver at 1090MHz by making an extensional coaxial collinear antenna ourself.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Visualization on Rui Shen</title>
+    <link>http://localhost:1313/tags/data-visualization/</link>
+    <description>Recent content in Data Visualization on Rui Shen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sub-thalamic nuclei Segmentation</title>
+      <link>http://localhost:1313/projects/subtha/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/subtha/</guid>
+      <description>This is the current project I am working on. My ultimate task is to develop better segmentation and analysis methods for thalamic &amp;amp; sub-thalamic nuclei based on multimodal MRI such as DTI/DKI and MPnRAGE. I have been conducting some experiments including investigating several fiber tractography methods solving crossing fiber problem, visualizing multimodal data using TSNE and UMAP, investigating optimization tools for difffusion kurtosis claculation and the cause of error estimation.</description>
+    </item>
+    
+  </channel>
+</rss>

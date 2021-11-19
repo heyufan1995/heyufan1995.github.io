@@ -1,0 +1,18 @@
+<div class="resume-item d-flex flex-column flex-md-row mb-5">
+  <div class="publication-content mr-auto">
+    <h3 class="mb-0">{{ .Params.pubtype }} - <span class="text-primary">{{ .Params.title }}</span></h3>
+    <div>{{ .Params.description | safeHTML }}</div>
+    {{if .Params.submitted}}
+      <p><a href="{{ .Params.link }}">Link to full paper</a></p>
+    {{end}}
+    <p>{{ partial "techtags" . }}</p>
+  </div>
+  <div class="resume-date text-md-right">
+    {{if .Params.submitted}}
+      <span class="text-primary">{{ .Params.date | dateFormat "January 2006" }}</span>
+    {{else}}
+      <span class="text-primary"> Submitted</span>
+    {{end}}
+      <img src="{{ .Params.image }}" style="max-width:250px;padding:5px;"/>
+  </div>
+</div>

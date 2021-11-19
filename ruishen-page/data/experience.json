@@ -1,0 +1,20 @@
+[
+    {
+        "role":"Research Assistant",
+        "company":"",
+        "summary":"IACL, Johns Hopkins University, January 2018 -  Present",
+        "summary2":"Neuroimaging Department,Nanjing Drum Tower Hospital, June 2016 - June 2017"
+    },
+    {
+        "role":"Teaching Assistant",
+        "summary":"Compressed Sensing 19 Spring, Machine Learning 18 Fall at Johns Hopkins University",
+        "summary2":"Programming and Algorithmic Language 14 Fall & 15 Spring at Southeast University"
+    },
+    {
+        "role":"Internship",
+        "company":"Philips Research North America",
+        "summary":"Research Intern at Image Guided Surgery group, May 2018 - Aug 2018",
+        "company2":"Donglan Digital Co., Ltd",
+        "summary2":"Software Engineer Intern at Donglan Digital Co., Ltd, July 2014 - August 2014"
+    }
+]

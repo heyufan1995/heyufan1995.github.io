@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blind Source Separation on Rui Shen</title>
+    <link>https://sherry-sr.github.io/tags/blind-source-separation/</link>
+    <description>Recent content in Blind Source Separation on Rui Shen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jun 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sherry-sr.github.io/tags/blind-source-separation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aircraft Monitoring based on ADS-B</title>
+      <link>https://sherry-sr.github.io/projects/adsb/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://sherry-sr.github.io/projects/adsb/</guid>
+      <description>ADS-B (Automatic dependent surveillance—broadcast) is &amp;ldquo;a surveillance technology in which an aircraft determines its position via satellite navigation and periodically broadcasts it, enabling it to be tracked.&amp;rdquo; I worked on this student project with two friends when we were sophomores. We built an reliable aircraft monitoring system with 200km detection zone, based on ADS-B technology. We improved the performance of the receiver at 1090MHz by making an extensional coaxial collinear antenna ourself.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,15 @@
+[
+    {
+        "school":"Johns Hopkins University",
+        "degree":"Master of Science",
+        "major":"Electrical and Computer Engineering",
+        "range":"2017 - Present"
+    },
+    {
+        "school":"Southeast University",
+        "degree":"Bachelor of Engineering",
+        "major":"Biomedical Engineering",
+        "range":"2013 - 2017",
+        "notes":"Outstanding graduate student (Top2%)"
+    }
+]

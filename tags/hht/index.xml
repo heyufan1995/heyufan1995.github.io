@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hht on Rui Shen</title>
+    <link>https://sherry-sr.github.io/tags/hht/</link>
+    <description>Recent content in Hht on Rui Shen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sherry-sr.github.io/tags/hht/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Heart Rate Monitoring from PPG</title>
+      <link>https://sherry-sr.github.io/projects/hht/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sherry-sr.github.io/projects/hht/</guid>
+      <description>This is a small prject I have been working on when I first joined Medical Electronics Laboratory in Southeast University. My task was to extract and analyze the real-time heart rate from PPG signals. I investigated Hilbert-Huang transform (HHT), short-time Fourier transform (STFT) and continuous wavelets transform (CWT) in this project.</description>
+    </item>
+    
+  </channel>
+</rss>
