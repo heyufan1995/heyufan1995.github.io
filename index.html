@@ -125,8 +125,8 @@
  <div class="resume-item d-flex flex-column flex-md-row mb-5">
    <div class="resume-content mr-auto">
      <h3 class="mb-0">Johns Hopkins University</h3>
-     <div class="subheading mb-3">Doctor of Philosophy</div>
      <div class="subheading mb-3">Master of Science</div>
+     <div class="subheading mb-3">Doctor of Philosophy</div>
      <div>Electrical and Computer Engineering</div>
    </div>
    <div class="resume-date text-md-right">
@@ -321,7 +321,13 @@
         </div>   
   </div>
 </section>
-
+.row {
+  display: flex;
+}
+.column {
+  flex: 45%;
+  padding: 5px;
+}
 <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="miscellaneous">
   <div class="my-auto" id="misc-content">
     <h2 class="mb-5">Miscellaneous</h2>
@@ -329,18 +335,23 @@
           <div class="resume-content mr-auto">
             <h3 class="mb-0">My lovely dog <a href="https://dota2.fandom.com/wiki/Kunkka">Kunkka</a></h3>
             <div class="resume-content " style="width:1000px;!important;">      
-              <img src="/img/kunkka/IMG_3262.JPG" style="max-width:1000px;padding: 5px"/>
-              <img src="/img/kunkka/IMG_3263.JPG" style="max-width:1000px;padding: 5px"/>
-              <img src="/img/kunkka/IMG_4186.JPG" style="max-width:1000px;padding: 5px"/>
-              <img src="/img/kunkka/IMG_4188.JPG" style="max-width:1000px;padding: 5px"/>
-              <img src="/img/kunkka/IMG_5149.jpg" style="max-width:1000px;padding: 5px"/>            
-            </div>
+              <div class="row">
+                <div class="column">
+                  <img src="/img/kunkka/kunkka.jpg" style="width:100%"/>
+                  <img src="/img/kunkka/IMG_3262.JPG" style="width:100%"/>
+                  <img src="/img/kunkka/IMG_3263.JPG" style="width:100%"/>
+                </div> 
+                <div class="column">
+                  <img src="/img/kunkka/IMG_4186.JPG" style="width:100%"/>
+                  <img src="/img/kunkka/IMG_4188.JPG" style="width:100%"/>
+                  <img src="/img/kunkka/IMG_5149.jpg" style="width:100%"/>            
+                </div>
+              </div>
           </div>
-
         </div>
   </div>
   <left>
-    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=500&t=n&d=rdy4SUrVjEG1d7KHDKSLjn7nU-O7nhDtQAphlAp5tuQ&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>       
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=rdy4SUrVjEG1d7KHDKSLjn7nU-O7nhDtQAphlAp5tuQ&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>       
   </left>
 </section>      
    
